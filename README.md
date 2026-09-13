@@ -1,6 +1,3 @@
-# cloud-network-security-automation-portfolio-
-Cloud Network Projects
-
 # Network Access Risk Analyzer
 
 ## Business Problem
