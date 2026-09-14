@@ -2,7 +2,7 @@
 
 ## Business Problem
 
-NorthStar Financial Services needs a way to identify
+TwinStar Financial Services needs a way to identify
 employees and contractors who retain unnecessary,
 expired, or excessive access to company systems and
 network resources.
