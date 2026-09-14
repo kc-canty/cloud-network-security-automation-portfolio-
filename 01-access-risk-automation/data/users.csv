@@ -1,1 +1,21 @@
-
+user_id,name,department,employment_type,status,last_login,contract_end
+1001,Bret Hart,Finance,Employee,Active,2026-09-10,
+1002,Shawn Michaels,Marketing,Employee,Active,2026-09-11,
+1003,Sting,IT,Contractor,Active,2026-09-08,2026-10-31
+1004,Ric Flair,Finance,Employee,Active,2026-09-01,
+1005,Booker T,HR,Contractor,Active,2026-08-29,2026-09-30
+1006,Kevin Nash,IT,Contractor,Active,2026-07-15,2026-08-31
+1007,Scott Hall,Operations,Employee,Inactive,2026-03-12,
+1008,Chris Jericho,Sales,Employee,Active,2026-09-12,
+1009,Goldberg,Security,Contractor,Active,2026-09-09,2026-12-15
+1010,Rey Mysterio,IT,Employee,Active,2026-09-13,
+1011,Eddie Guerrero,Finance,Contractor,Inactive,2026-05-20,2026-06-30
+1012,The Undertaker,Security,Employee,Active,2026-09-07,
+1013,Kane,Operations,Employee,Active,2026-08-01,
+1014,Randy Savage,Marketing,Contractor,Active,2026-06-18,2026-07-31
+1015,Diamond Dallas Page,Sales,Employee,Inactive,2025-12-15,
+1016,Mick Foley,HR,Employee,Active,2026-09-05,
+1017,Triple H,IT,Contractor,Active,2026-09-12,2027-01-15
+1018,Steve Austin,Operations,Employee,Active,2026-04-22,
+1019,Kurt Angle,Security,Contractor,Active,2026-08-30,2026-09-15
+1020,The Rock,Executive,Employee,Active,2026-09-13,
